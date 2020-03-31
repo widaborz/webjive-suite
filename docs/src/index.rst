@@ -16,7 +16,7 @@ WebJive General documentation is available in the following link: https://webjiv
 
 .. toctree::
    :maxdepth: 2
-   :caption: For end user:
+   :caption: For dashboard developer:
 
    overview
    quick_start
@@ -25,10 +25,8 @@ WebJive General documentation is available in the following link: https://webjiv
 .. toctree::
    :maxdepth: 2
    :caption: For developer:
-   
+
    services
-   usage
-   device
    usage
    contribution
    device
@@ -36,6 +34,9 @@ WebJive General documentation is available in the following link: https://webjiv
    webjive_suite_candc
    webjive_suite_module_view
    pubsub
+
+   :caption: External resources
+   .. _Read the docs: https://readthedocs.org/
 
 Prerequsities
 -------------
@@ -45,8 +46,8 @@ To use this project, Docker >= v18 and GNU Make must be installed.
 Development of the OSO-UI applications
 --------------------------------------
 
-The development of the OSO-UI webjive application suite is a collaberation between
-software developers at the Max IV  Laboratory in Lund  and the SKA OSO-UI team.
+The development of the OSO-UI webjive application suite is a collaboration between
+software developers at the Max IV  Laboratory in Lund  and the SKA Buttons team.
 
 Any development work on the webjive suite follows an agreed :doc:`./contribution`
 
