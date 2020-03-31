@@ -19,14 +19,16 @@ WebJive General documentation is available in the following link: https://webjiv
    :caption: For end user:
 
    overview
-   services
-   usage
-   device
+   quick_start
+
 
 .. toctree::
    :maxdepth: 2
    :caption: For developer:
-
+   
+   services
+   usage
+   device
    usage
    contribution
    device
