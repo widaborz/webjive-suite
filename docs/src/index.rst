@@ -16,10 +16,17 @@ WebJive General documentation is available in the following link: https://webjiv
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: For end user:
 
    overview
    services
+   usage
+   device
+
+.. toctree::
+   :maxdepth: 2
+   :caption: For developer:
+
    usage
    contribution
    device
@@ -27,9 +34,6 @@ WebJive General documentation is available in the following link: https://webjiv
    webjive_suite_candc
    webjive_suite_module_view
    pubsub
-   tangogql
-   features
-   case_sensitive
 
 Prerequsities
 -------------
