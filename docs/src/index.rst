@@ -35,9 +35,6 @@ WebJive General documentation is available in the following link: https://webjiv
    webjive_suite_module_view
    pubsub
 
-   :caption: External resources
-   .. _Read the docs: https://readthedocs.org/
-
 Prerequsities
 -------------
 
