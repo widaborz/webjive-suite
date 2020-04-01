@@ -12,7 +12,11 @@ defines a set of docker-compose configurations for OSO-UI applications
 and their dependencies so that a test integrated system can be
 instantiated on a developer's laptop or workstation.
 
-WebJive General documentation is available in the following link: https://webjive.readthedocs.io/en/latest/index.html
+The documentation is composed of three parts. The **Dashboard developer**, 
+which explains how to use Webjive, step by step, for end user. The **developer**
+part, which shows technical aspects of Webjive. And **External Resources** with
+a list of useful documentation regarding Webjive and other tools. 
+
 
 .. toctree::
    :maxdepth: 2
@@ -34,8 +38,33 @@ WebJive General documentation is available in the following link: https://webjiv
    webjive_suite_candc
    webjive_suite_module_view
    pubsub
+   .. _Read the docs: https://readthedocs.org/
+   _Read the docs: https://readthedocs.org/
+   Read the docs: https://readthedocs.org/
 
-.. _Read the docs: https://readthedocs.org/
+External resources
+------------------
+
+Webjive
+    Webjive is a web-based program that allows a user to create a visual 
+    interface using widgetswhich may include charts, numerical indicators 
+    or dials that interface to Tango device back end database.
+    WebJive General documentation is available in the following link,
+    : https://webjive.readthedocs.io/en/latest/index.html
+    In the documentation you will find sections as: 
+    - Architecture: a description of the Webjive Software Architecture
+    - Widget: the documentation of how the widgets works
+    - How to deploy a widget
+
+TangoGQL
+    A GraphQL implementation for Tango, used by Webjive to access the Tango
+    Controls Framework
+    TangoGQL General documentation is available in the following link,
+    : https://web-maxiv-tangogql.readthedocs.io/en/latest/
+    In the documentation you will find sections as: 
+    - .. _API Documentation: https://web-maxiv-tangogql.readthedocs.io/en/latest/api.html
+    - .. _Examples: https://web-maxiv-tangogql.readthedocs.io/en/latest/examples.html
+    - TangoGQL features and convention
 
 
 Prerequsities
