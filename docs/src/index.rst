@@ -40,6 +40,14 @@ a list of useful documentation regarding Webjive and other tools.
    pubsub
    Webjive <https://web-maxiv-tangogql.readthedocs.io/en/latest/>
 
+.. toctree::
+   :caption: External resources:
+
+   Webjive <https://webjive.readthedocs.io/en/latest/index.html>
+   TangoGQL <https://web-maxiv-tangogql.readthedocs.io/en/latest/index.html>
+   Webjive authorization <https://webjive-auth.readthedocs.io/en/latest/>
+   Webjive Dashboard <https://webjive-dashboards.readthedocs.io/en/latest/>
+
 
 External resources
 ------------------
@@ -61,17 +69,18 @@ TangoGQL
     TangoGQL General documentation is available in the following link,
     : https://web-maxiv-tangogql.readthedocs.io/en/latest/
     In the documentation you will find sections as: 
-    - .. _API Documentation: https://web-maxiv-tangogql.readthedocs.io/en/latest/api.html
-    - .. _Examples: https://web-maxiv-tangogql.readthedocs.io/en/latest/examples.html
-    - TangoGQL features and convention
+    * `API Documentation`_
+    * `Examples`_
+    * TangoGQL features and convention
 
-      * `MkDocs documentation`_
-      * `Markdown syntax guide`_
-      * `Writing your docs with MkDocs`_
+   .. _API Documentation: https://web-maxiv-tangogql.readthedocs.io/en/latest/api.html
+   .. _Examples: https://web-maxiv-tangogql.readthedocs.io/en/latest/examples.html
 
-      .. _MkDocs documentation: https://www.mkdocs.org/
-      .. _Markdown syntax guide: https://daringfireball.net/projects/markdown/syntax
-      .. _Writing your docs with MkDocs: https://www.mkdocs.org/user-guide/writing-your-docs/
+Webjive authorization
+    Webjive authorization (work in progress): https://webjive-auth.readthedocs.io/en/latest/
+
+Webjive Dashboard
+    Webjive Dashboard (work in progress): https://webjive-dashboards.readthedocs.io/en/latest/
 
 
 Prerequsities
