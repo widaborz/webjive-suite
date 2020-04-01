@@ -17,37 +17,11 @@ which explains how to use Webjive, step by step, for end user. The **developer**
 part, which shows technical aspects of Webjive. And **External Resources** with
 a list of useful documentation regarding Webjive and other tools. 
 
+Official documentation
+----------------------
 
-.. toctree::
-   :maxdepth: 2
-   :caption: For dashboard developer:
-
-   overview
-   how_run
-   quick_start
-
-
-.. toctree::
-   :maxdepth: 2
-   :caption: For developer:
-
-   services
-   usage
-   contribution
-   device
-   pubsub
-
-.. toctree::
-   :caption: External resources:
-
-   Webjive <https://webjive.readthedocs.io/en/latest/index.html>
-   TangoGQL <https://web-maxiv-tangogql.readthedocs.io/en/latest/index.html>
-   Webjive authorization <https://webjive-auth.readthedocs.io/en/latest/>
-   Webjive Dashboard <https://webjive-dashboards.readthedocs.io/en/latest/>
-
-
-External resources
-------------------
+In this documentation, only documents regarding SKA are reported. For the complete
+documentation of Webjive and TangoGQL, please refer to the official documentation. 
 
 Webjive
     Webjive is a web-based program that allows a user to create a visual 
@@ -81,6 +55,35 @@ Webjive authorization
 
 Webjive Dashboard
     Webjive Dashboard (work in progress): https://webjive-dashboards.readthedocs.io/en/latest/
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: For dashboard developer:
+
+   overview
+   how_run
+   quick_start
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: For developer:
+
+   services
+   usage
+   contribution
+   device
+   pubsub
+
+.. toctree::
+   :caption: External resources:
+
+   Webjive <https://webjive.readthedocs.io/en/latest/index.html>
+   TangoGQL <https://web-maxiv-tangogql.readthedocs.io/en/latest/index.html>
+   Webjive authorization <https://webjive-auth.readthedocs.io/en/latest/>
+   Webjive Dashboard <https://webjive-dashboards.readthedocs.io/en/latest/>
+
 
 
 Prerequsities
