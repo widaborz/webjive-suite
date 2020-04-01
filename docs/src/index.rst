@@ -41,17 +41,14 @@ a list of useful documentation regarding Webjive and other tools.
    .. _Read the docs: https://readthedocs.org/
    _Read the docs: https://readthedocs.org/
    Read the docs: https://readthedocs.org/
-
-.. toctree::
-   :maxdepth: 1
-   :caption: External Resources:
    * `MkDocs documentation`_
    * `Markdown syntax guide`_
    * `Writing your docs with MkDocs`_
 
-   .. _MkDocs documentation: https://www.mkdocs.org/
-   .. _Markdown syntax guide: https://daringfireball.net/projects/markdown/syntax
-   .. _Writing your docs with MkDocs: https://www.mkdocs.org/user-guide/writing-your-docs/
+.. toctree::
+   :maxdepth: 1
+   :caption: External Resources:
+
 
 External resources
 ------------------
