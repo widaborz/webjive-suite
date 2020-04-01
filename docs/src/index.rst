@@ -38,7 +38,6 @@ a list of useful documentation regarding Webjive and other tools.
    webjive_suite_candc
    webjive_suite_module_view
    pubsub
-   Webjive <https://web-maxiv-tangogql.readthedocs.io/en/latest/>
 
 .. toctree::
    :caption: External resources:
@@ -59,15 +58,17 @@ Webjive
     WebJive General documentation is available in the following link,
     : https://webjive.readthedocs.io/en/latest/index.html
     In the documentation you will find sections as: 
-    - Architecture: a description of the Webjive Software Architecture
-    - Widget: the documentation of how the widgets works
-    - How to deploy a widget
+
+    * Architecture: a description of the Webjive Software Architecture
+    * Widget: the documentation of how the widgets works
+    * How to deploy a widget
 
 TangoGQL
     A GraphQL implementation for Tango, used by Webjive to access the Tango
     Controls Framework
     TangoGQL General documentation is available in the following link,
     : https://web-maxiv-tangogql.readthedocs.io/en/latest/
+    
     In the documentation you will find sections as: 
     * `API Documentation`_
     * `Examples`_
