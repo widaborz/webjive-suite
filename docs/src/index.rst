@@ -35,7 +35,7 @@ Webjive
     * Widgets: the documentation of how the widgets works
     * `How to deploy a widget`_
 
-    .. How to deploy a widget_: https://webjive.readthedocs.io/en/latest/widget.html
+    .. _How to deploy a widget: https://webjive.readthedocs.io/en/latest/widget.html
 
 TangoGQL
     A GraphQL implementation for Tango, used by Webjive to access the Tango
