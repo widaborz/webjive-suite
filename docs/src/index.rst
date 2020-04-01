@@ -32,8 +32,10 @@ Webjive
     In the documentation you will find sections as: 
 
     * Architecture: a description of the Webjive Software Architecture
-    * Widget: the documentation of how the widgets works
-    * How to deploy a widget
+    * Widgets: the documentation of how the widgets works
+    * `How to deploy a widget`_
+
+    .. How to deploy a widget_: https://webjive.readthedocs.io/en/latest/widget.html
 
 TangoGQL
     A GraphQL implementation for Tango, used by Webjive to access the Tango
