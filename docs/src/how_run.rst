@@ -1,7 +1,7 @@
-Steps to get Webjive running locally\ [#F1]_\ 
-*********************************************
+Steps to get Webjive running locally
+************************************
 
-The guide below assumes that the user has no previous versions of Webjive installed.  At the time of writing there are a number of ways in which Webjive can be launched.  However from a user point of view the way that should be adopted is given below because it will ensure that the ‘latest’ stable version is used. This guide assumes no previous versions of Webjive are present.
+The guide below assumes that the user has no previous versions of Webjive installed.  At the time of writing there are a number of ways in which Webjive can be launched.  However from a user point of view the way that should be adopted is given below because it will ensure that the ‘latest’ stable version is used. This guide assumes no previous versions of Webjive are present. \ [#F1]_\ 
 
 
 Prerequisites
