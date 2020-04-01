@@ -23,6 +23,7 @@ a list of useful documentation regarding Webjive and other tools.
    :caption: For dashboard developer:
 
    overview
+   how_run
    quick_start
 
 
@@ -34,9 +35,6 @@ a list of useful documentation regarding Webjive and other tools.
    usage
    contribution
    device
-   architecture
-   webjive_suite_candc
-   webjive_suite_module_view
    pubsub
 
 .. toctree::
@@ -68,8 +66,9 @@ TangoGQL
     Controls Framework
     TangoGQL General documentation is available in the following link,
     : https://web-maxiv-tangogql.readthedocs.io/en/latest/
-    
+
     In the documentation you will find sections as: 
+
     * `API Documentation`_
     * `Examples`_
     * TangoGQL features and convention
