@@ -38,16 +38,7 @@ a list of useful documentation regarding Webjive and other tools.
    webjive_suite_candc
    webjive_suite_module_view
    pubsub
-   .. _Read the docs: https://readthedocs.org/
-   _Read the docs: https://readthedocs.org/
-   Read the docs: https://readthedocs.org/
-   * `MkDocs documentation`_
-   * `Markdown syntax guide`_
-   * `Writing your docs with MkDocs`_
-
-.. toctree::
-   :maxdepth: 1
-   :caption: External Resources:
+   Webjive <https://web-maxiv-tangogql.readthedocs.io/en/latest/>
 
 
 External resources
